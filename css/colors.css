@@ -1,0 +1,8 @@
+:root {
+    --main: #ffb6c1;       /* Tonos pasteles rosados */
+    --main-light: #ffd1dc; /* Tonos pasteles rosados más claros */
+    --dark: #384047;       /* Azul-grisáceo para contraste */
+    --dark-light: #6e7a80; /* Azul-grisáceo más claro */
+    --white: #f0f0f0;      /* Blanco suave */
+    --grey: #b0b0b0;       /* Gris suave */
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Yolanda Studio Art</title>
+    <link>https://yolandastudio.art/tags/</link>
+    <description>Recent content in Tags on Yolanda Studio Art</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://yolandastudio.art/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>acrylics</title>
+      <link>https://yolandastudio.art/tags/acrylics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yolandastudio.art/tags/acrylics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>home</title>
+      <link>https://yolandastudio.art/tags/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yolandastudio.art/tags/home/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
